@@ -1,4 +1,6 @@
-# Lecture1
+# Lecture 1
+# Variables and Data Types
+
 
 
 ## Problem 1
@@ -50,11 +52,11 @@
 
 
 ## Problem 4
-## WAP to input 2 int numbers and print true if a is greater than or equal to b if not print false
+## WAP to input 2 int numbers and print True if a is greater than or equal to b if not print False
 
 
-a = float(input("a : "))
-b = float(input("b : "))
+a = int(input("a : "))
+b = int(input("b : "))
 
 
 print( a >= b )
